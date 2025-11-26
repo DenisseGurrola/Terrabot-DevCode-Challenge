@@ -1,0 +1,9 @@
+requirements.txt
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+matplotlib
+pyyaml
+label-studio-sdk
